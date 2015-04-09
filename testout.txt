@@ -1,0 +1,8 @@
+The list of devices of type: SWITCH
+switch type = C4510R id = a36bc35a-94ed-4b2c-a66c-e46dddd5e037 type = SWITCH
+switch type = C6513 id = 7f0e9dec-fb57-4593-a48b-c4193371398a type = SWITCH
+switch type = C6513 id = da733ffb-e34b-4733-bd85-b615fb7e61f3 type = SWITCH
+switch type = C3750X id = 7895a45f-47aa-42ee-9d06-c66d3b784594 type = SWITCH
+switch type = C4507R id = e5f93514-3ae5-4109-8b52-b9fa876e1eae type = SWITCH
+switch type = C3850 id = 526c8fc6-f732-41a9-9faf-5876293a2e8c type = SWITCH
+switch type = C3850 id = f8c3fc68-cd26-4576-bcec-51f9b578f71e type = SWITCH
